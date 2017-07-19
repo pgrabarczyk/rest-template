@@ -10,6 +10,6 @@ To build go inside project directory (where pom.xml file is), then run:
 
 Then you can run application by command:
   ``` bash
-  java -jar target/spring-integration-example.jar
+  java -jar target/*.jar
   ```
 
